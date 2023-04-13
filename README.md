@@ -2,7 +2,7 @@
 
 I'm Tuan. I'm a full-stack developer with a passion for coding and a knack for turning caffeine into code! When I'm not busy pushing code to GitHub, you can usually find me debating whether to name my variables after Disney characters or Harry Potter spells. May the code be with you! 🚀✨🪄
 
-- 🔭 You can find my projects here [portfolio]()
+- 🔭 You can find my projects here [portfolio](https://kutun0901.github.io/)
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](tuan.tq2433@gmail.com)
 - 😄 Pronouns: He/Him
